@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit _test
 
 st.title("🎈 My new app")
 st.write(
